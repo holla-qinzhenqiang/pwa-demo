@@ -2,7 +2,7 @@
   "name": "PWA",
   "short_name": "PWA",
   "theme_color": "#F3F3F3",
-  "start_url": "/?standalone=1",
+  "start_url": "/pwa-demo/?standalone=1",
   "display": "standalone",
   "background_color": "#F3F3F3",
   "description": "pwa test",
